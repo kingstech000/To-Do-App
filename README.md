@@ -1,6 +1,6 @@
 # todoapp
 
-A new Flutter project.
+A To-do app with state management implemented
 
 ## Getting Started
 
